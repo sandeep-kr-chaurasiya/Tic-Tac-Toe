@@ -6,7 +6,6 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. T
 
 ## Features
 
-
 - **Two-Player Mode**: Play Tic-Tac-Toe with a friend.
 - **Game Status**: Display the current winner or if the game is a draw.
 - **New Game**: Start a new game after one has ended.
